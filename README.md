@@ -1,6 +1,7 @@
 # cs361FinalProject
 
 How to Request Data: 
+
 To programmatically request data from the microservice, send a POST request to the /format_chess_log endpoint with the JSON data containing the chess log. The JSON data should be structured as a list of dictionaries, where each dictionary represents a move in the chess game. Each move dictionary should contain the following fields:
 
 "turn": The player's turn (e.g., "white" or "black").
