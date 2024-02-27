@@ -1,4 +1,4 @@
-# cs361FinalProject
+# Communication Contract
 
 How to Request Data: 
 
