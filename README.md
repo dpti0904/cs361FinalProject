@@ -8,10 +8,9 @@ To programmatically request data from the microservice, send a POST request to t
 "starting square": The square from which the piece is moving (e.g., "e2").
 "ending square": The square to which the piece is moving (e.g., "e4").
 "piece captured": A boolean indicating whether a piece is captured during the move (True or False).
+
 Example call to request data:
 
-python
-Copy code
 import requests
 import json
 
