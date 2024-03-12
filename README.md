@@ -35,7 +35,7 @@ The microservice responds to POST requests sent to the /format_chess_log endpoin
 
 # How to receive data
 
-
+# UML Sequence Diagram
 
 ![Screenshot 2024-03-11 171652](https://github.com/dpti0904/cs361FinalProject/assets/133840526/5d375f6b-02c3-48e7-b667-4499a51a70ab)
 
