@@ -32,6 +32,14 @@ print(formatted_log)
 How to Receive Data:
 The microservice responds to POST requests sent to the /format_chess_log endpoint. It returns the formatted chess log as a JSON object containing a single field: "formatted_log", which holds the formatted moves of the chess game.
 
+
+# How to receive data
+
+
+
+![Screenshot 2024-03-11 171652](https://github.com/dpti0904/cs361FinalProject/assets/133840526/5d375f6b-02c3-48e7-b667-4499a51a70ab)
+
+
 Example of receiving data:
 
 import requests
