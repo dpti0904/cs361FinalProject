@@ -33,7 +33,6 @@ How to Receive Data:
 The microservice responds to POST requests sent to the /format_chess_log endpoint. It returns the formatted chess log as a JSON object containing a single field: "formatted_log", which holds the formatted moves of the chess game.
 
 
-# How to receive data
 
 # UML Sequence Diagram
 
